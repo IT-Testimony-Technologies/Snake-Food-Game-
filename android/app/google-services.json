@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "247223986263",
+    "project_id": "quicksnakes",
+    "storage_bucket": "quicksnakes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247223986263:android:6f15c89dfa7864720fdb12",
+        "android_client_info": {
+          "package_name": "com.testimonytechnologies.biz.QuickSnakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247223986263-ss269di0eudg96id0vaitbrt2t5evon5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVgmkpF_3LKnyxwGgxibXXgcS6GH4Q7Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247223986263-ss269di0eudg96id0vaitbrt2t5evon5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247223986263-q6v1usg2f6ui192o9mhi81auoutr2atm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testimonytechnologies.biz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
